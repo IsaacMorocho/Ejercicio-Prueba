@@ -1,1 +1,2 @@
 # Ejercicio-Prueba
+El establecimiento ofrece hamburguesas sencillas, dobles y triples, las cuales tienen un costo de $1.50, $2.50 y $3.25 respectivamente. De la misma manera, el local puede aceptar tarjetas de crédito con un cargo de 5% sobre la compra final, pero también se puede pagar en efectivo sin un recargo. Suponiendo que los clientes adquieren sólo un tipo de hamburguesa, realice un programa para determinar cuánto debe pagar un cliente si adquiere N hamburguesas.
